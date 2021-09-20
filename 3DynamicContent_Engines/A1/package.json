@@ -1,0 +1,16 @@
+{
+  "name": "a1",
+  "version": "1.0.0",
+  "description": "main assignment for template engines",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trvrpp71/Acadmind.git"
+  },
+  "author": "Trevor Pope",
+  "license": "ISC"
+}

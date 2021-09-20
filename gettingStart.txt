@@ -3,7 +3,7 @@ to begin a new project folder:
 setup folder
 npm init to initial the package.json file
 npm install --save-dev nodemon
-npm install --save express
-npm install --save body-parser
+npm install --save express ejs body-parser
+
 add 'start': nodemon app.js to scripts in package.json
 copy gitignore file into project folder
