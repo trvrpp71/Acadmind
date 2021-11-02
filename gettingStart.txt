@@ -4,6 +4,17 @@ setup folder
 npm init to initial the package.json file
 npm install --save-dev nodemon
 npm install --save express ejs body-parser
+npm install --save express-session  // for session managing
+npm install --save connect-mongodb-session //for storing session info in db
+npm install --save bcryptjs //for encrypting passwords
+npm install --save csurf //installes a CSRF token for security
+npm install --save connect-flash  //for putting info into memory for redirects
+
 
 add 'start': nodemon app.js to scripts in package.json
 copy gitignore file into project folder
+
+
+
+sendgrid api key 
+API_KEY=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
